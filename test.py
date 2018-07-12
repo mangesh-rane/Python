@@ -178,8 +178,8 @@ WEBDRIVER_COOKIES_MAP={
 # from selenium.webdriver.support import wait
 # from selenium.webdriver.support import expected_conditions as EC
 #
-# driver = webdriver.Chrome("/home/mrane/Downloads/chromedriver")
-# driver.get("http://10.200.10.74:8080")
+# driver = webdriver.Chrome("/")
+# driver.get("http:")
 # driver.set_network_conditions()
 # driver.implicitly_wait(10)
 # wait.WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "j_username"))).send_keys("mrane")
